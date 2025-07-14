@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>دليل المبتعث إلى ألمانيا 2025 - منح وتأشيرات وسكن</title>
+  <meta name="description" content="كل ما يحتاجه الطالب العربي للدراسة في ألمانيا، أمريكا، كندا، وبريطانيا: روابط منح، تأشيرات، نماذج PDF، وسكن طلابي.">
+  <meta name="keywords" content="منح دراسية, الدراسة في ألمانيا, تأشيرة ألمانيا, مبتعث, سكن طلابي, الدراسة في أمريكا, كندا, بريطانيا">
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, sans-serif;
+      background: linear-gradient(to bottom, #d4fcd7, #ffffff);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+
+    h1 {
+      color: #2f6138;
+      margin-bottom: 20px;
+      font-size: 30px;
+      text-align: center;
+    }
+
+    h2 {
+      color: #256029;
+      font-size: 22px;
+      margin: 25px 0 10px;
+      text-align: center;
+    }
+
+    .box {
+      background-color: #ffffff;
+      border: 1px solid #b7e2bd;
+      border-left: 6px solid #4CAF50;
+      border-radius: 10px;
+      width: 100%;
+      max-width: 700px;
+      padding: 15px 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+
+    .box h3 {
+      color: #2e7d32;
+      font-size: 18px;
+      margin-bottom: 8px;
+    }
+
+    .box a {
+      color: #219653;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .box a:hover {
+      text-decoration: underline;
+    }
+
+    /* رابط سياسة الخصوصية في الأسفل */
+    footer {
+      margin-top: auto;
+      padding: 15px;
+      width: 100%;
+      text-align: center;
+      background-color: #e4f5e1;
+      border-top: 1px solid #b7e2bd;
+      font-size: 14px;
+    }
+
+    footer a {
+      color: #2f6138;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📚 دليل المبتعث 2025</h1>
+
+  <!-- ألمانيا -->
+  <h2>🇩🇪 ألمانيا</h2>
+  <div class="box">
+    <h3>🔗 تأشيرة الطالب</h3>
+    <a href="https://www.germany-visa.org/student-visa/" target="_blank">اضغط هنا</a>
+  </div>
+  <div class="box">
+    <h3>🎓 منحة DAAD</h3>
+    <a href="https://www.daad.de/en/study-and-research-in-germany/scholarships/" target="_blank">منحة ألمانيا</a>
+  </div>
+  <div class="box">
+    <h3>🏫 جامعة هايدلبرغ</h3>
+    <a href="https://www.uni-heidelberg.de/en" target="_blank">زيارة الموقع</a>
+  </div>
+
+  <!-- أمريكا -->
+  <h2>🇺🇸 أمريكا</h2>
+  <div class="box">
+    <h3>🔗 تأشيرة الطالب F1</h3>
+    <a href="https://travel.state.gov/content/travel/en/us-visas/study/student-visa.html" target="_blank">رابط التأشيرة</a>
+  </div>
+  <div class="box">
+    <h3>🎓 منحة فولبرايت</h3>
+    <a href="https://foreign.fulbrightonline.org/" target="_blank">تقديم على المنحة</a>
+  </div>
+  <div class="box">
+    <h3>🏫 جامعة هارفارد</h3>
+    <a href="https://www.harvard.edu/" target="_blank">زيارة الموقع</a>
+  </div>
+
+  <!-- كندا -->
+  <h2>🇨🇦 كندا</h2>
+  <div class="box">
+    <h3>🔗 تأشيرة الدراسة في كندا</h3>
+    <a href="https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada.html" target="_blank">رابط التقديم</a>
+  </div>
+  <div class="box">
+    <h3>🎓 منحة Vanier</h3>
+    <a href="https://vanier.gc.ca/en/home.html" target="_blank">تقديم على المنحة</a>
+  </div>
+  <div class="box">
+    <h3>🏫 جامعة تورنتو</h3>
+    <a href="https://www.utoronto.ca/" target="_blank">زيارة الموقع</a>
+  </div>
+
+  <!-- بريطانيا -->
+  <h2>🇬🇧 بريطانيا</h2>
+  <div class="box">
+    <h3>🔗 تأشيرة طالب Tier 4</h3>
+    <a href="https://www.gov.uk/student-visa" target="_blank">رابط التأشيرة</a>
+  </div>
+  <div class="box">
+    <h3>🎓 منحة تشيفنينغ</h3>
+    <a href="https://www.chevening.org/" target="_blank">تقديم على المنحة</a>
+  </div>
+  <div class="box">
+    <h3>🏫 جامعة أكسفورد</h3>
+    <a href="https://www.ox.ac.uk/" target="_blank">زيارة الموقع</a>
+  </div>
+
+  <!-- فيديو -->
+  <h2>📺 فيديو توجيهي</h2>
+  <div class="box">
+    <h3>دليلك للدراسة في أوروبا وأمريكا</h3>
+    <a href="https://www.youtube.com/watch?v=J3xi2R6lv1E" target="_blank">مشاهدة على YouTube</a>
+  </div>
+
+  <!-- رابط سياسة الخصوصية في الأسفل -->
+  <footer>
+    <a href="privacy.html">سياسة الخصوصية</a>
+  </footer>
+
+</body>
+</html>
