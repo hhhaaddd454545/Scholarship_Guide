@@ -3,21 +3,16 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-  <!-- كود التحقق من PropellerAds -->
-  <meta name="monetag" content="b0954eeb68ada230433f827a359bdf3d">
-
   <title>دليل المبتعث إلى ألمانيا 2025 - منح وتأشيرات وسكن</title>
   <meta name="description" content="كل ما يحتاجه الطالب العربي للدراسة في ألمانيا، أمريكا، كندا، وبريطانيا: روابط منح، تأشيرات، نماذج PDF، وسكن طلابي.">
   <meta name="keywords" content="منح دراسية, الدراسة في ألمانيا, تأشيرة ألمانيا, مبتعث, سكن طلابي, الدراسة في أمريكا, كندا, بريطانيا">
-
+  <meta name="monetag" content="b0954eeb68ada230433f827a359bdf3d">
   <style>
     * {
       margin: 0;
       padding: 0;
       box-sizing: border-box;
     }
-
     body {
       font-family: 'Segoe UI', Tahoma, sans-serif;
       background: linear-gradient(to bottom, #d4fcd7, #ffffff);
@@ -27,21 +22,18 @@
       align-items: center;
       padding: 20px;
     }
-
     h1 {
       color: #2f6138;
       margin-bottom: 20px;
       font-size: 30px;
       text-align: center;
     }
-
     h2 {
       color: #256029;
       font-size: 22px;
       margin: 25px 0 10px;
       text-align: center;
     }
-
     .box {
       background-color: #ffffff;
       border: 1px solid #b7e2bd;
@@ -53,23 +45,19 @@
       margin-bottom: 20px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.05);
     }
-
     .box h3 {
       color: #2e7d32;
       font-size: 18px;
       margin-bottom: 8px;
     }
-
     .box a {
       color: #219653;
       text-decoration: none;
       font-weight: bold;
     }
-
     .box a:hover {
       text-decoration: underline;
     }
-
     footer {
       margin-top: auto;
       padding: 15px;
@@ -79,13 +67,11 @@
       border-top: 1px solid #b7e2bd;
       font-size: 14px;
     }
-
     footer a {
       color: #2f6138;
       text-decoration: none;
       font-weight: bold;
     }
-
     footer a:hover {
       text-decoration: underline;
     }
@@ -162,10 +148,17 @@
     <a href="https://www.youtube.com/watch?v=J3xi2R6lv1E" target="_blank">مشاهدة على YouTube</a>
   </div>
 
-  <!-- رابط سياسة الخصوصية -->
+  <!-- رابط سياسة الخصوصية في الأسفل -->
   <footer>
     <a href="privacy.html">سياسة الخصوصية</a>
   </footer>
+
+  <!-- كود Infolinks -->
+  <script type="text/javascript">
+    var infolinks_pid = 3438234;
+    var infolinks_wsid = 0;
+  </script>
+  <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 
 </body>
 </html>
