@@ -7,6 +7,9 @@
   <meta name="description" content="كل ما يحتاجه الطالب العربي للدراسة في ألمانيا، أمريكا، كندا، وبريطانيا: روابط منح، تأشيرات، نماذج PDF، وسكن طلابي.">
   <meta name="keywords" content="منح دراسية, الدراسة في ألمانيا, تأشيرة ألمانيا, مبتعث, سكن طلابي, الدراسة في أمريكا, كندا, بريطانيا">
 
+  <!-- كود التحقق من ملكية الموقع PropellerAds -->
+  <meta name="monetag" content="b0954eeb68ada230433f827a359bdf3d">
+
   <style>
     * {
       margin: 0;
@@ -66,7 +69,6 @@
       text-decoration: underline;
     }
 
-    /* رابط سياسة الخصوصية في الأسفل */
     footer {
       margin-top: auto;
       padding: 15px;
@@ -159,7 +161,7 @@
     <a href="https://www.youtube.com/watch?v=J3xi2R6lv1E" target="_blank">مشاهدة على YouTube</a>
   </div>
 
-  <!-- رابط سياسة الخصوصية في الأسفل -->
+  <!-- رابط سياسة الخصوصية -->
   <footer>
     <a href="privacy.html">سياسة الخصوصية</a>
   </footer>
